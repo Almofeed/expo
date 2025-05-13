@@ -15,6 +15,8 @@
 
 ### 💡 Others
 
+- Remove internal routes from sitemap and add unit tests for this screen ([#36856](https://github.com/expo/expo/pull/36856) by [@Ubax](https://github.com/Ubax))
+
 ## 5.0.6 — 2025-05-06
 
 ### 🐛 Bug fixes
